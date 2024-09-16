@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikhilahuja5
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m full Stack Web developer
+- 💞️ I’m looking to collaborate on web Applications
 - 📫 How to reach me email me nikhilahuja0501@gmail.com
 
 <!---
